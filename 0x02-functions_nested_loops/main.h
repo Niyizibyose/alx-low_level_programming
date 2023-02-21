@@ -1,6 +1,12 @@
 #ifndef main_h
 	#define main_h
 
+    /**
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
+	 */
+
 
 	int _putchar(char);
 	void print_alphabet(void);
