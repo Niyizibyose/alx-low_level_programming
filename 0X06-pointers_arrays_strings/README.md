@@ -1,1 +1,1 @@
-new var
+Hello C
